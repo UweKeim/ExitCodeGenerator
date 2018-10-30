@@ -2,7 +2,7 @@
 
 Tool to sleep for a given amout of milliseconds and then return a given exit code.
 
-**[Download latest executable](https://example.org/todo)**
+**[Download latest executable](https://github.com/UweKeim/ExitCodeGenerator/releases/download/v1.0.0.0/exitcode-generator.exe)**
 
 ## Introduction
 
