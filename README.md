@@ -52,3 +52,7 @@ Wait for 2 seconds and then return exit code 5:
 
 >     exitcode-generator.exe --sleep=2000 --exitcode=5
 
+Wait for 3.5 seconds and then return exit code 0:
+
+>     exitcode-generator.exe --sleep=3500
+
