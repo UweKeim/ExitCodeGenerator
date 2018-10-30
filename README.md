@@ -1,6 +1,6 @@
 # Exit Code Generator
 
-Tool to sleep for a given amout of milliseconds and then return a given exit code.
+Tool to sleep for a given amount of milliseconds and then return a given exit code.
 
 **[Download latest executable](https://github.com/UweKeim/ExitCodeGenerator/releases/download/v1.0.0.0/exitcode-generator.exe)**
 
@@ -26,7 +26,7 @@ This is a small utility to sleep for a given amount of milliseconds and then ret
 > return from the application. If none is specified, zero is returned.
 
 `--sleep=<milliseconds>`:
-> Optional. Specify an positive amout of milliseconds to sleep before exiting.
+> Optional. Specify a positive amount of milliseconds to sleep before exiting.
 > If none is specified, the application returns immediately.
 
 `--log=<true|false>`:
