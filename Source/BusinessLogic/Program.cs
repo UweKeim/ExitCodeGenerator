@@ -39,7 +39,7 @@
             Logger.Log(@"    return from the application. If none is specified, zero is returned.");
             Logger.Log();
             Logger.Log(@"--sleep=<milliseconds>:");
-            Logger.Log(@"    Optional. Specify an positive amout of milliseconds to sleep before exiting.");
+            Logger.Log(@"    Optional. Specify an positive amount of milliseconds to sleep before exiting.");
             Logger.Log(@"    If none is specified, the application returns immediately.");
             Logger.Log();
             Logger.Log(@"--log=<true|false>:");
