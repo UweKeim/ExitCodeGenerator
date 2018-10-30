@@ -6,7 +6,7 @@ Tool to sleep for a given amount of milliseconds and then return a given exit co
 
 ## Introduction
 
-This is a small utility to sleep for a given amount of milliseconds and then return a given exit code. It is intended as a mockup for testing external application calls.
+This is a small Windows command line utility to sleep for a given amount of milliseconds and then return a given exit code. It is intended as a mockup for testing external application calls.
 
 ## Usage
 
