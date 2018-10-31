@@ -6,7 +6,9 @@ Tool to sleep for a given amount of milliseconds and then return a given exit co
 
 ## Introduction
 
-This is a small Windows command line utility to sleep for a given amount of milliseconds and then return a given exit code. It is intended as a mockup for testing external application calls.
+This is a small Windows command line utility to sleep for a given amount of milliseconds and then return a given exit code. 
+
+It is intended as a mockup for testing external application calls. E.g. I'm using it in testing an application of mine that calls an external command line virus scanner, that takes some time to run and returns different exit codes depending on whether a virus was detected or not. Instead of specifying the actual virus scanner on our test machines, I simply call the `exitcode-generator.exe` with different parameters.
 
 ## Usage
 
